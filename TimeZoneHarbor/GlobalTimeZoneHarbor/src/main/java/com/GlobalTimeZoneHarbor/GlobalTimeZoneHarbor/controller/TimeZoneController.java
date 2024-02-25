@@ -4,6 +4,7 @@ import com.GlobalTimeZoneHarbor.GlobalTimeZoneHarbor.model.TimeZone;
 import com.GlobalTimeZoneHarbor.GlobalTimeZoneHarbor.service.TimeZoneService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.multipart.MultipartFile;
 
 import java.util.List;
 import java.util.Optional;
@@ -38,5 +39,10 @@ public class TimeZoneController {
     @DeleteMapping("/deleteAll")
     public String deleteAll(){
         return timeZoneService.deleteAllTimeZone();
+    }
+
+    @PostMapping("/saveTimeZonesByFile")
+    public String saveTimeZonesByFile(MultipartFile file){
+        return timeZoneService.saveTimeZonesByFile(file);
     }
 }

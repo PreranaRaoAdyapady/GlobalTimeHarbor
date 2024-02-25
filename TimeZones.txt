@@ -1,0 +1,43 @@
+AF,Afghanistan,Asia/Kabul,UTC +04:30
+AL,Albania,Europe/Tirane,UTC +01:00
+DZ,Algeria,Africa/Algiers,UTC +01:00
+AS,American Samoa,Pacific/Pago_Pago,UTC -11:00
+AD,Andorra,Europe/Andorra,UTC +01:00
+AO,Angola,Africa/Luanda,UTC +01:00
+AI,Anguilla,America/Anguilla,UTC -04:00
+AQ,Antarctica,Antarctica/Casey,UTC +08:00
+AQ,Antarctica,Antarctica/Davis,UTC +07:00
+AQ,Antarctica,Antarctica/DumontDUrville,UTC +10:00
+AQ,Antarctica,Antarctica/Mawson,UTC +05:00
+AQ,Antarctica,Antarctica/McMurdo,UTC +13:00
+AQ,Antarctica,Antarctica/Palmer,UTC -03:00
+AQ,Antarctica,Antarctica/Rothera,UTC -03:00
+AQ,Antarctica,Antarctica/Syowa,UTC +03:00
+AQ,Antarctica,Antarctica/Troll,UTC
+AQ,Antarctica,Antarctica/Vostok,UTC +05:00
+AG,Antigua and Barbuda,America/Antigua,UTC -04:00
+AR,Argentina,America/Argentina/Buenos_Aires,UTC -03:00
+AR,Argentina,America/Argentina/Catamarca,UTC -03:00
+AR,Argentina,America/Argentina/Cordoba,UTC -03:00
+AR,Argentina,America/Argentina/Jujuy,UTC -03:00
+AR,Argentina,America/Argentina/La_Rioja,UTC -03:00
+AR,Argentina,America/Argentina/Mendoza,UTC -03:00
+AR,Argentina,America/Argentina/Rio_Gallegos,UTC -03:00
+AR,Argentina,America/Argentina/Salta,UTC -03:00
+AR,Argentina,America/Argentina/San_Juan,UTC -03:00
+AR,Argentina,America/Argentina/San_Luis,UTC -03:00
+AR,Argentina,America/Argentina/Tucuman,UTC -03:00
+AR,Argentina,America/Argentina/Ushuaia,UTC -03:00
+AM,Armenia,Asia/Yerevan,UTC +04:00
+AW,Aruba,America/Aruba,UTC -04:00
+AU,Australia,Antarctica/Macquarie,UTC +11:00
+AU,Australia,Australia/Adelaide,UTC +10:30
+AU,Australia,Australia/Brisbane,UTC +10:00
+AU,Australia,Australia/Broken_Hill,UTC +10:30
+AU,Australia,Australia/Darwin,UTC +09:30
+AU,Australia,Australia/Eucla,UTC +08:45
+AU,Australia,Australia/Hobart,UTC +11:00
+AU,Australia,Australia/Lindeman,UTC +10:00
+AU,Australia,Australia/Lord_Howe,UTC +11:00
+AU,Australia,Australia/Melbourne,UTC +11:00
+AU,Australia,Australia/Perth,UTC +08:00
